@@ -17,7 +17,7 @@ const AppNavigator = {
 
     /** new navigators can be added here */
     SplashScreen: {
-      screen: SplashScreen
+      screen: SignupScreen113569
     }
 };
 
