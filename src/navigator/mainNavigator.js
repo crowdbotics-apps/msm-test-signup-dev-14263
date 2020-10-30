@@ -16,7 +16,7 @@ const AppNavigator = {
     //@BlueprintNavigationInsertion
 
     /** new navigators can be added here */
-    SplashScreen: {
+    SignupScreen113569: {
       screen: SignupScreen113569
     }
 };
