@@ -1,6 +1,6 @@
 import axios from "axios"
 const userAccount = axios.create({
-  baseURL: "https://tstcr2020102601-dev-14047.botics.co/rest-auth",
+  baseURL: "https://MSM-test-signup-dev-14263.botics.co/rest-auth",
   headers: { Accept: "application/json", "Content-Type": "application/json" }
 })
 const mSMtestsignupAPI = axios.create({
